@@ -14,4 +14,3 @@ Instruções de Uso
 Insira suas credenciais da API do X no código.
 Execute o script, especificando a hashtag ou termo que deseja analisar.
 Confira os gráficos de análise de sentimentos e as palavras mais comuns geradas.
-Este projeto é ideal para explorar dados e entender as opiniões em tempo real sobre tópicos discutidos na rede social X.
