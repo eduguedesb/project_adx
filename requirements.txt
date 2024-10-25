@@ -1,0 +1,5 @@
+tweepy==4.10.1
+pandas==1.5.2
+matplotlib==3.6.2
+seaborn==0.12.1
+nltk==3.7
